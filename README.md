@@ -1,3 +1,9 @@
-# Contemporary Issues In Data
+# The EU's passing of GDPR, it's impact on data privacy and business operations: Analyzing the Benefits and Challenges.
 
-Welcome! Your writing assignment will be in this file.  See [the instructions](./instructions.md) for more details.
+## Article 1
+
+The essay [A Tale of Two Privacy Laws: The GDPR and the International Right to Privacy](https://www.cambridge.org/core/journals/american-journal-of-international-law/article/tale-of-two-privacy-laws-the-gdpr-and-the-international-right-to-privacy/8F51BC461CEC2B557962643B6E24D390) analyzes the GDPR in relation to the ICCPR's privacy rights, arguing that the GDPR, despite being a global standard for data privacy, does not fully meet the ICCPR's requirements. It critiques the GDPR's limited scope, noting it doesn't cover all privacy aspects and has notable exceptions, especially in national security and law enforcement. The essay also contrasts the GDPR with the U.S. sectoral approach to privacy regulation, suggesting that different legal frameworks, including sector-specific laws, could meet ICCPR standards if properly implemented.
+
+## Article 2
+
+[A case against the General Data Protection Regulation](https://www.brookings.edu/articles/a-case-against-the-general-data-protection-regulation/) suggests that the GDPR, despite its intent to protect privacy, could have negative impacts such as increased operational costs for businesses, potential fees for services that were previously free, and a decline in the quality of digital services like search results and AI functionality. It argues that these regulations might stifle innovation and reduce the effectiveness of services, as businesses are restricted in their ability to collect and use data. Additionally, the article posits that people often willingly share personal information for the benefits it brings, implying that strict privacy regulations like the GDPR might not align with consumer preferences and could limit the advantages of data-driven services.
